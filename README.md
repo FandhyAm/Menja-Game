@@ -4,7 +4,7 @@
 
 # Perview
 
-https://menja-game.vercel.app/
+https://mymenja-game.vercel.app/
 
 <img src="image/Menja-game.png">
 
